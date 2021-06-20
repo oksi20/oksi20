@@ -1,5 +1,5 @@
 ### Aloha 👋
-I'm enthusiastic Full Stack Developer and willing to collaborate in the interesting projects!
+Enthusiastic Full Stack Developer looking foward to future projects and collaborations 
 
 
 ### 🗂 Some of my projects
