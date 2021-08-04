@@ -3,7 +3,7 @@ Enthusiastic Full Stack Developer looking foward to future projects and collabor
 
 
 ### 🗂 Some of my projects
-- https://github.com/oksi20/cryptoCurrencyTracker - web service for dynamic price trends for crypto currencies, their conversions, investment statistic by users work place.
+- https://github.com/oksi20/cryptoCurrencyTracker - web service for real-time crypto rates, trends and portfolio management
 - https://github.com/oksi20/ridingWaves-SurfBoard-rentals - e-commerce website for renting surfboards
 - https://github.com/oksi20/FindYourMentor -  web application that allows users to register as IT mentors or to find a mentor they need
 
@@ -22,8 +22,6 @@ Enthusiastic Full Stack Developer looking foward to future projects and collabor
 -  ⚡ Chart.js /multer/ bcrypt/ 
 -  💬 Cloud technologies: Heroku/ MongoDB Atlas/ Cloudinary CDN
 - 🌱 I’m currently learning TypeScript
-
-
 
 
 ###
